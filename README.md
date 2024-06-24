@@ -7,7 +7,7 @@
 |方正黑体_GBK|FZHTK|5.30|
 |方正楷体_GBK|FZKTK|5.30|
 |方正隶书_GBK|FZLSK|5.31|
-|方正宋体_GBK|FZSSK|5.30|
+|方正书宋_GBK|FZSSK|5.30|
 |方正魏碑_GBK|FZWBK|5.32|
 |方正小标宋_GBK|FZXBSK|5.40|
 |Times New Roman 常规|TIMES|7.00|
